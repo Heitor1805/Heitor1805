@@ -5,7 +5,7 @@ Working on CAD modeling for a rocket company
 
 My tech skills include Bash,Python,C++,SolidWorks,AutoCAD 
 
-## Achievments
+## Achievements
 Codewars 5 Kyu
 
 Completed over 250+ challanges(mostly in c++)
