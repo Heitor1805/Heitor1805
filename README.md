@@ -15,4 +15,6 @@ Codewars 5 Kyu
 
 Completed over 250+ challanges(mostly in c++)
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Heitor1805)](https://github.com/stats-organization/github-stats-extended)
+<a href="https://git.io/streak-stats">
+   <img src="https://streak-stats.demolab.com?user=Heitor1805" alt="GitHub Streak">
+</a>
