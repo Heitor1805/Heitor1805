@@ -15,6 +15,6 @@ Codewars 5 Kyu
 
 Completed over 250+ challanges(mostly in c++)
 
-<a href="https://git.io/streak-stats">
-   <img src="https://streak-stats.demolab.com?user=Heitor1805" alt="GitHub Streak">
+<a src="https://github.com/anuraghazra/github-readme-stats">
+   <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor1805">
 </a>
