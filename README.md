@@ -15,4 +15,4 @@ Codewars 5 Kyu
 
 Completed over 250+ challanges(mostly in c++)
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Heitor1805&prog_bar_bg_color=dark)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Heitor1805)](https://github.com/stats-organization/github-stats-extended)
