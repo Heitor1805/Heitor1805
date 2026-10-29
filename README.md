@@ -10,4 +10,4 @@ Codewars 5 Kyu
 
 Completed over 250+ challanges(mostly in c++)
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,bash,python)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=cpp,bash,python,neovim,linux)](https://skillicons.dev) 
