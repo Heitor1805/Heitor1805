@@ -1,5 +1,5 @@
 ## Media
-[![image](www.linkedin.com/in/heitor-campagnac-a8b797309)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![[image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]({www.linkedin.com/in/heitor-campagnac-a8b797309})
 
 ## Hi there 🐧
 
