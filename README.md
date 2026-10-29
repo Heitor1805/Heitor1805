@@ -9,4 +9,5 @@ My tech skills include Bash,Python,C++,SolidWorks,AutoCAD
 Codewars 5 Kyu
 
 Completed over 250+ challanges(mostly in c++)
-[![My Skills](https://skillicons.dev/icons?i=c++,bash,python)](https://skillicons.dev) 
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,bash,python)](https://skillicons.dev) 
